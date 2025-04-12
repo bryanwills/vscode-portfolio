@@ -3,23 +3,23 @@ import styles from '@/styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'nitinranganath.com',
-    href: 'https://nitinranganath.com',
+    link: 'bryanwills.dev',
+    href: 'https://bryanwills.dev',
   },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'bryanwi09@gmail.com',
+    href: 'mailto:bryanwi09@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'bryanwills',
+    href: 'https://github.com/bryanwills',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'bryan-wills',
+    href: 'https://www.linkedin.com/in/bryan-wills/',
   },
   {
     social: 'twitter',
@@ -28,13 +28,8 @@ const contactItems = [
   },
   {
     social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'peerlist',
-    link: 'nitinranganath',
-    href: 'https://peerlist.io/nitinranganath',
+    link: 'bryan_wills',
+    href: 'https://t.me/bryan_wills',
   },
 ];
 

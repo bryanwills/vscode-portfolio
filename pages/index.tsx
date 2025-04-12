@@ -14,7 +14,7 @@ export default function HomePage() {
       type: 'variable',
     },
     { code: '  const developerInfo = {', type: 'variable' },
-    { code: "    name: 'Nitin Ranganath',", type: 'array-item' },
+    { code: "    name: 'Bryan Wills',", type: 'array-item' },
     { code: "    role: 'Full Stack Developer',", type: 'array-item' },
     { code: "    bio: 'Building modern web experiences'", type: 'array-item' },
     { code: '  };', type: 'array-end' },
@@ -91,7 +91,7 @@ export default function HomePage() {
 
         <div className={styles.infoSection}>
           <h1 className={styles.developerName}>
-            Nitin <span className={styles.accentText}>Ranganath</span>
+            Bryan <span className={styles.accentText}>Wills</span>
           </h1>
 
           <div className={styles.developerRole}>Full Stack Web Developer</div>

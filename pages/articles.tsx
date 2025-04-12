@@ -15,7 +15,7 @@ const ArticlesPage = ({ articles }: ArticlesPageProps) => {
       <p className={styles.pageSubtitle}>
         Recent posts from{' '}
         <a
-          href="https://dev.to/itsnitinr"
+          href="https://dev.to/bryanwills"
           target="_blank"
           rel="noopener"
           className={styles.underline}

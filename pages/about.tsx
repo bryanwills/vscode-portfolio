@@ -4,18 +4,18 @@ const AboutPage = () => {
   return (
     <div className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Nitin Ranganath</h1>
+        <h1 className={styles.title}>Bryan Wills</h1>
         <div className={styles.subtitle}>Software Engineer</div>
 
         <div className={styles.aboutContent}>
           <section className={styles.section}>
             <p className={styles.paragraph}>
-              Hey! I&apos;m a software engineer from Mumbai, India. I primarily
+              Hey! I&apos;m working to become a software engineer. I primarily
               work with JavaScript / TypeScript and the React ecosystem.
             </p>
             <p className={styles.paragraph}>
               I&apos;m focused on frontend development with React, but
-              you&apos;ll also find me working with Node.js, MongoDB and Express
+              you&apos;ll also find me working with Node.js, Postgres and Express
               while building the backend for my personal projects.
             </p>
           </section>
@@ -23,15 +23,11 @@ const AboutPage = () => {
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>Experience</h2>
             <p className={styles.paragraph}>
-              Currently at <span className={styles.highlight}>Tessact</span> as
-              Software Engineer 2, working with a lean team of 4 frontend
-              engineers to build a next-gen video creation suite for the people
-              of video.
+              Currently at <span className={styles.highlight}>Looking</span> as
+              Senior Systems Engineer.
             </p>
             <p className={styles.paragraph}>
-              I&apos;ve been leading the development efforts for bringing
-              collaborative video reviewing and editing to the platform. I also
-              maintain our in-house component library, icon library and website.
+              I&apos;ve been leading the development efforts to create a fully automated AI assistant.
             </p>
           </section>
 
@@ -40,7 +36,6 @@ const AboutPage = () => {
             <p className={styles.paragraph}>
               I&apos;ve had the pleasure of writing for some amazing
               publications like{' '}
-              <span className={styles.highlight}>100ms Blog</span>,{' '}
               <span className={styles.highlight}>LogRocket Blog</span>,{' '}
               <span className={styles.highlight}>DEV.to</span> and more as a
               freelance technical author.
